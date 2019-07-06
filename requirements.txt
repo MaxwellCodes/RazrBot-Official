@@ -1,0 +1,5 @@
+discord
+asyncio
+Python
+youtube_dl
+pip
